@@ -79,4 +79,5 @@ If it wasn't clear by now, this project is a tad of a fork/clone/parody of the [
 A) It's fun.
 
 B) It reminds us of our lord and saviour, Keanu Reeves.
-   ![You're breathtaking!](breathtaking.gif)
+
+![You're breathtaking!](breathtaking.gif)
