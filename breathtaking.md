@@ -76,6 +76,9 @@ That's the most important thing of all, I made this as a fun little thing, so ha
 
 If it wasn't clear by now, this project is a tad of a fork/clone/parody of the [Awesome](https://github.com/sindresorhus/awesome/tree/main) lists. These are for *"quality"* and *"curated"* content only. As I wanted something to just sum up my favorite projects with and do a little thank-you as well, I made this. Where's the joke though? It's easy, whatever you do, don't use the word *"awesome"*, instead use *"breathtaking"* a lot.
 
+**Why?** Because...
+
+
 A) It's fun.
 
 B) It reminds us of our lord and saviour, Keanu Reeves.
