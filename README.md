@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=breathtaking-items&show_owner=true&theme=maroongold&hide_border=true">
+        <a href="https://github.com/FTEdianiaK/breathtaking-items"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ftedianiak&repo=breathtaking-items&show_owner=true&theme=maroongold&hide_border=true"></a>
       </td>
     </tr>
   </table>
