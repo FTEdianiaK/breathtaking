@@ -84,3 +84,7 @@ A) It's fun.
 B) It reminds us of our lord and saviour, Keanu Reeves.
 
 ![You're breathtaking!](breathtaking.gif)
+
+## OPTIONAL: Last thing 😅
+
+If you wanna take it one step further, you may also include the tagline "**This is NOT an awesome list, it's a breathtaking one and it's available under the CC0 license.**" in your list. For this, I just wanna clarify one thing. It's not made as an insult or anything, it's supposed to really serve as a distinction (if it wasn't clear enough), so people don't start adding *"curated"* stuff to the list via issues, PRs, etc. or worse, try to add it to the [Awesome](https://github.com/sindresorhus/awesome) list repo. (Really, check it out though, it's truly AWESOME!)
